@@ -54,13 +54,13 @@ I'm a passionate software developer with a keen interest in building innovative 
 
 ## 🤝 Connect With Me
 <div align="center" style="perspective: 1000px;">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/arekatla-nishanth-chowdary">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="transform: translateZ(20px);" />
   </a>
   <a href="https://twitter.com/your-handle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="transform: translateZ(20px);" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://portfolionishanth.digital">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" style="transform: translateZ(20px);" />
   </a>
 </div>

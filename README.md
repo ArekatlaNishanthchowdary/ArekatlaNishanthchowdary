@@ -40,7 +40,7 @@ I'm an AI/ML student who likes building things that run **locally and privately*
 
 <div align="center">
 
-![Metrics](./github-metrics.svg)
+![Metrics](./github-metrics.svg?v=2)
 
 </div>
 

@@ -18,6 +18,8 @@ I'm an AI/ML student who likes building things that run **locally and privately*
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -29,9 +31,9 @@ I'm an AI/ML student who likes building things that run **locally and privately*
 
 | Project | What it does |
 |---|---|
-| [**Handsfree**](https://github.com/ArekatlaNishanthchowdary/Handsfree) | Local, open-source autonomous computer-use agent — drives a browser/desktop app from plain-English tasks using a local Ollama model, with action-level safety guardrails and a JSON audit trace. No cloud API. |
+| [**Ask-My-Docs**](https://github.com/ArekatlaNishanthchowdary/Ask-My-Docs) | Retrieval-augmented chat over your own PDFs. |
 | [**senpais-pdf-workshop**](https://github.com/ArekatlaNishanthchowdary/senpais-pdf-workshop) | Local PDF toolkit with 44 operations — a PySide6 desktop app and a CLI, both generated from one operation registry. No upload, no account, no Docker. |
-| [**RAG-PDF-Chat-App**](https://github.com/ArekatlaNishanthchowdary/RAG-PDF-Chat-App) | Retrieval-augmented chat over your own PDFs. |
+| [**Handsfree**](https://github.com/ArekatlaNishanthchowdary/Handsfree) | Local, open-source autonomous computer-use agent — drives a browser/desktop app from plain-English tasks using a local Ollama model, with action-level safety guardrails and a JSON audit trace. No cloud API. |
 | [**Emotion-Detector**](https://github.com/ArekatlaNishanthchowdary/Emotion-Detector) | Takes a face as input, predicts gender, age, and emotion. |
 | [**Smart-Traffic-Management**](https://github.com/ArekatlaNishanthchowdary/Smart-Traffic-Management) | Traffic flow analysis and management system. |
 | [**STEM-to-Sign-Language**](https://github.com/ArekatlaNishanthchowdary/STEM-to-Sign-Language) | Translates STEM terminology into sign language. |

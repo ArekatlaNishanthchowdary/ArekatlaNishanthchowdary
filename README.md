@@ -13,7 +13,13 @@
 
 ### 🧠 About
 
-I'm an AI/ML student who likes building things that run **locally and privately** — computer-use agents, PDF tooling, and RAG apps that don't need a cloud API key to work. Most of what I ship pairs a small local model (Ollama) with a tight, auditable action layer.
+🎓 B.Tech CSE (AI) student passionate about software development, artificial intelligence, and building practical solutions to real-world problems.
+
+💻 I enjoy working with Python, Java, web development, automation, and exploring new technologies. I love creating projects that combine clean design with useful functionality.
+
+🚀 Currently learning, building, and contributing to open-source while continuously improving my skills in AI, backend development, and cloud technologies.
+
+📫 Always open to learning, collaborating, and connecting with fellow developers.
 
 ### 🛠️ Tech Stack
 

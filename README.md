@@ -4,7 +4,7 @@
 
 **AI Student @ Amrita Vishwa Vidyapeetham** · Building agents, RAG pipelines, and local-first tools
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolionishanth.digital-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.portfolionishanth.digital)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arekatlanishanthchowdary.github.io-000?style=for-the-badge&logo=github&logoColor=white)](https://arekatlanishanthchowdary.github.io/portfolio-nishanth/)
 [![GitHub followers](https://img.shields.io/github/followers/ArekatlaNishanthchowdary?style=for-the-badge&logo=github&color=181717&labelColor=181717)](https://github.com/ArekatlaNishanthchowdary)
 
 </div>
@@ -46,7 +46,7 @@ I'm an AI/ML student who likes building things that run **locally and privately*
 
 ### 📫 Connect
 
-[![Portfolio](https://img.shields.io/badge/Website-000?style=flat-square&logo=safari&logoColor=white)](https://www.portfolionishanth.digital)
+[![Portfolio](https://img.shields.io/badge/Website-000?style=flat-square&logo=github&logoColor=white)](https://arekatlanishanthchowdary.github.io/portfolio-nishanth/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArekatlaNishanthchowdary)
 
 <div align="center">

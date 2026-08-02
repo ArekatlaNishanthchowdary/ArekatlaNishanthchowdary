@@ -37,7 +37,7 @@
 
 | Project | What it does |
 |---|---|
-| [**Ask-My-Docs**](https://github.com/ArekatlaNishanthchowdary/Ask-My-Docs) | Retrieval-augmented chat over your own PDFs. |
+| [**Ask-My-Docs**](https://github.com/ArekatlaNishanthchowdary/Ask-My-Docs) | Local RAG document Q&A assistant — chat over your PDFs with semantic retrieval, vector search, and local LLM integration. 100% private with no cloud API required. |
 | [**senpais-pdf-workshop**](https://github.com/ArekatlaNishanthchowdary/senpais-pdf-workshop) | Local PDF toolkit with 44 operations — a PySide6 desktop app and a CLI, both generated from one operation registry. No upload, no account, no Docker. |
 | [**Handsfree**](https://github.com/ArekatlaNishanthchowdary/Handsfree) | Local, open-source autonomous computer-use agent — drives a browser/desktop app from plain-English tasks using a local Ollama model, with action-level safety guardrails and a JSON audit trace. No cloud API. |
 | [**Emotion-Detector**](https://github.com/ArekatlaNishanthchowdary/Emotion-Detector) | Takes a face as input, predicts gender, age, and emotion. |

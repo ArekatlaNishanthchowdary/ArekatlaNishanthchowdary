@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arekatlanishanthchowdary.github.io-000?style=for-the-badge&logo=github&logoColor=white)](https://arekatlanishanthchowdary.github.io/portfolio-nishanth/)
 [![GitHub followers](https://img.shields.io/github/followers/ArekatlaNishanthchowdary?style=for-the-badge&logo=github&color=181717&labelColor=181717)](https://github.com/ArekatlaNishanthchowdary)
-[![Sponsor](https://img.shields.io/badge/Sponsor-UPI-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](#-support-my-work)
 
 </div>
 
@@ -51,14 +50,6 @@
 
 ![Metrics](./github-metrics.svg?v=2)
 
-</div>
-
-### ☕ Support my work
-
-If one of my projects helped you, you can support it over UPI: scan the code with any UPI app, or pay `nishanthchowdary1234@pingpay`.
-
-<div align="center">
-  <img src="./upi-qr.png" width="220" alt="UPI QR code for nishanthchowdary1234@pingpay">
 </div>
 
 ### 📫 Connect
